@@ -12,6 +12,8 @@ It is time to decide on your tech stack. We recommend either HTML/CSS or React.
 
 List your chosen tech stack here:
 
+ -I choose REACT!!!!
+
 ### LinkedIn
 
 Your LinkedIn url:
