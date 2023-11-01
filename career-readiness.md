@@ -12,12 +12,14 @@ It is time to decide on your tech stack. We recommend either HTML/CSS or React.
 
 List your chosen tech stack here:
 
+ -I choose REACT!!!!
+
 ### LinkedIn
 
 Your LinkedIn url:
-
+www.linkedin.com/in/gregory-encalada
 Check the boxes below to certify that you have completed the following items on LinkedIn:
 
-- [ ] create a new post about your first three weeks at LEARN. Topics can include (but are not limited to) React, Ruby, projects you created, sharing a project you created, asking for advice, sharing advice.
-- [ ] add at least ten more professional connections. Connections can include your cohort mates, LEARN alumni, LEARN staff, following companies of interest, friends and family, and former coworkers.
-- [ ] react (like, celebrate, comment, etc) to ten posts from your existing connections.
+- [x] create a new post about your first four weeks at LEARN. Topics can include (but are not limited to) React, Ruby, projects you created, sharing a project you created, asking for advice, sharing advice.
+- [x] add at least ten more professional connections. Connections can include your cohort mates, LEARN alumni, LEARN staff, following companies of interest, friends and family, and former coworkers.
+- [x] react (like, celebrate, comment, etc) to ten posts from your existing connections.
